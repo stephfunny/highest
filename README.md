@@ -10,7 +10,7 @@ The input data file has a record per line. Each line has the following structure
 An example program execution is:
 
 ```
-$ ./highest score_recs.data 5
+$ node highest score_recs.data 5
 [
     {
         "score": 16774838,
